@@ -19,10 +19,10 @@ local Tabela = {
 		["Koku"]	=	{Tier = 20000,Permission = {1193912295}},  -- destrói mapa "brutal"
 		["Yori"]	=	{Permission = {1193912295}},
 		["Meliodas"]	=        {Permission = {1193912295}},
-		["Goku"]	=	{Tier = 1,Permission = {1193912295}},
+		["Goku"]	=	{Tier = 1,Permission = {1193912295,4407395403}},
 		["TOP"]	=		{Tier = 20000,Permission = {1193912295}},  -- destroi mapa
 		["Giorno"] = 	        {Tier = 1050,Permission = {1193912295}},
-		["Hakaishin"] =         {Tier = 20000,Permission = {1193912295}},  -- destrói mapa "mais ou menos"
+		["Hakaishin"] =         {Tier = 20000,Permission = {1193912295,4660260626}},  -- destrói mapa "mais ou menos"
 		["Boss"] = 		{Tier = 20000,Permission = {1193912295}},  -- destrói mapa "brutal"
 		["JP6"] = 		{Tier = 1,Permission = {1193912295}},
 		["Gojo"] = 		{Tier = 1,Permission = {1193912295}}, -- perm temp
