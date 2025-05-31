@@ -1,7 +1,7 @@
 local Tabela = {
 	PlayerPermission = {
 		["Bezerril1"] = 			{Tier = 40000000},
-		["Malvadinho025"] = 	        {Tier = 20000},
+		["ALLISONPMQ1234"] = 	        {Tier = 20000},
 		["ITZ_NATALIA1290"] = 				{Tier = 20000},
 		[""] = 				{Tier = 1},
 		[""] = 				{Tier = 1},
@@ -19,7 +19,7 @@ local Tabela = {
 		["Koku"]	=	{Tier = 20000,Permission = {1193912295}},  -- destrói mapa "brutal"
 		["Yori"]	=	{Permission = {1193912295}},
 		["Meliodas"]	=        {Permission = {1193912295}},
-		["Goku"]	=	{Tier = 1,Permission = {1193912295,4407395403}},
+		["Goku"]	=	{Tier = 1,Permission = {1193912295,3229053786}},
 		["TOP"]	=		{Tier = 20000,Permission = {1193912295}},  -- destroi mapa
 		["Giorno"] = 	        {Tier = 1050,Permission = {1193912295}},
 		["Hakaishin"] =         {Tier = 20000,Permission = {1193912295,}},  -- destrói mapa "mais ou menos"
@@ -28,7 +28,7 @@ local Tabela = {
 		["Gojo"] = 		{Tier = 1,Permission = {1193912295}}, -- perm temp
 		["GojoV3"] = 		{Tier = 100,Permission = {1193912295}}, -- novo "custom"
 		["Itadori"] = 		{Tier = 100,Permission = {1193912295}}, -- novo "custom"
-		["Eren"] = 		{Tier = 1,Permission = {1193912295,4660260626}}, -- adicionado conforme solicitado
+		["Eren"] = 		{Tier = 1,Permission = {1193912295,4660260626,3229053786}}, -- adicionado conforme solicitado
 		["Mahoraga"] =         {Tier = 20000,Permission = {1193912295}}, -- novo "custom"
 	}
 }
