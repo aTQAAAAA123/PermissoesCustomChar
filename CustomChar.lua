@@ -13,7 +13,7 @@ local Tabela = {
 	},
 	
 	CharacterTier = {
-		["Enrico"] = 	        {Tier = 1,Permission = {1193912295}},
+		["Enrico"] = 	        {Tier = 1,Permission = {1193912295,7906001056}},
 		["DIO"]	=		{Tier = 1,Permission = {1193912295}},
 		["Madara"]	=	{Tier = 1,Permission = {1193912295}},
 		["Koku"]	=	{Tier = 20000,Permission = {1193912295}},  -- destrói mapa "brutal"
